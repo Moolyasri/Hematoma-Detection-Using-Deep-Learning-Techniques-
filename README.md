@@ -1,0 +1,1 @@
+Developed an AI-powered hematoma detection system using ResNet-50, EfficientNet-B7, and U-Net + LSTM, achieving 93.2% classification accuracy and 0.871 Dice score.Built a Flask-based web app with MongoDB integration for real-time MRI scan analysis and location-based hospital recommendations
