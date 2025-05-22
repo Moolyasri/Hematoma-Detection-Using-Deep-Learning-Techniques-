@@ -1,0 +1,9 @@
+flask==2.0.1
+tensorflow==2.8.0
+numpy==1.21.2
+Pillow==8.3.2
+scikit-learn==0.24.2
+pymongo==4.3.3
+flask-login==0.6.2
+bcrypt==4.0.1
+geopy==2.3.0 
